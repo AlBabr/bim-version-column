@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://schemas.microsoft.com/windows/2006/propertydescription"
+        schemaVersion="1.0">
+  <propertyDescriptionList publisher="BimVersion" product="BimVersionHandler">
+    <propertyDescription name="BimVersion.Version"
+                         formatID="{d2994922-8afc-477c-93d0-557bb79fc12a}"
+                         propID="100">
+      <searchInfo inInvertedIndex="true" isColumn="true" columnIndexType="OnDisk" />
+      <typeInfo type="String" isInnate="true" isViewable="true" />
+      <labelInfo label="BIM Version" />
+      <displayInfo defaultColumnWidth="20" alignment="Left" />
+    </propertyDescription>
+  </propertyDescriptionList>
+</schema>

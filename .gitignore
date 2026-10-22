@@ -1,0 +1,23 @@
+# Build artifacts
+*.obj
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# Inno Setup output
+installer_output/
+*.iss.tmp
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# OS
+Thumbs.db
+desktop.ini
